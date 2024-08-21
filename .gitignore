@@ -1,0 +1,20 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+media/
+
+# Virtual environments
+venv/
+.env
+
+# Migrations
+*/migrations/*
+
+# Logs
+*.log
+
+# Others
+.DS_Store
